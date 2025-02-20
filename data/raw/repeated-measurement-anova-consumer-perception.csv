@@ -1,0 +1,151 @@
+Presentation_Order;Age;Gender;EXP_Will Like_BlackTea;EXP_Sweet_BlackTea;EXP_Bitter_BlackTea;EXP_Flavor_BlackTea;EXP_Strong_BlackTea;EXP_Healthy_BlackTea;EVAL_Liked_BlackTea;EVAL_Sweet_BlackTea;EVAL_Bitter_BlackTea;EVAL_Flavor_BlackTea;EVAL_Strong_BlackTea;EVAL_Healthy_BlackTea;EXP_Will Like_GreenTea;EXP_Sweet_GreenTea;EXP_Bitter_GreenTea;EXP_Flavor_GreenTea;EXP_Strong_GreenTea;EXP_Healthy_GreenTea;EVAL_Liked_GreenTea;EVAL_Sweet_GreenTea;EVAL_Bitter_GreenTea;EVAL_Flavor_GreenTea;EVAL_Strong_GreenTea;EVAL_Healthy_GreenTea
+GreenTea_BlackTea;18;Female;4;1;6;5;6;5;4;1;4;4;2;2;6;2;1;1;4;4;5;2;1;1;3;3
+BlackTea_GreenTea ;20;Female;5;2;6;4;5;6;6;4;2;2;3;3;7;3;3;2;4;5;6;3;4;2;3;5
+BlackTea_GreenTea ;20;Female;2;2;2;4;5;5;5;4;2;4;4;3;5;3;4;4;4;4;4;3;5;6;4;3
+GreenTea_BlackTea;20;Female;7;5;3;2;4;6;5;2;7;3;4;5;5;3;5;3;4;5;7;5;4;4;4;6
+GreenTea_BlackTea;20;Female;2;4;2;3;5;2;6;5;2;3;4;5;3;2;3;4;5;5;6;5;5;6;5;5
+GreenTea_BlackTea;20;Female;4;5;5;4;5;5;7;5;4;4;5;6;4;3;4;2;4;4;3;4;2;5;5;5
+GreenTea_BlackTea;20;Female;5;2;6;7;7;6;4;1;4;2;4;1;3;1;4;3;4;6;5;3;5;6;6;4
+GreenTea_BlackTea;20;Female;5;2;6;4;5;5;6;3;2;3;3;4;4;4;4;4;4;4;5;3;4;1;3;4
+GreenTea_BlackTea;21;Female;6;5;5;4;7;6;7;6;4;4;3;3;2;3;3;3;4;2;2;3;3;5;3;3
+GreenTea_BlackTea;21;Female;1;3;6;2;6;1;5;6;4;3;4;4;4;3;4;5;3;5;7;6;3;5;2;5
+BlackTea_GreenTea ;23;Female;5;5;5;5;6;5;3;4;4;4;3;3;4;5;4;4;5;4;3;3;3;5;3;5
+BlackTea_GreenTea ;23;Female;5;5;1;2;7;5;3;2;7;5;2;2;7;7;6;5;5;7;7;7;6;7;3;3
+GreenTea_BlackTea;23;Female;1;1;2;3;3;4;2;1;7;3;3;3;3;2;2;2;1;2;5;2;3;3;5;5
+BlackTea_GreenTea ;24;Female;4;5;6;3;5;2;5;5;2;2;4;4;6;2;3;1;1;4;2;1;6;7;5;6
+BlackTea_GreenTea ;24;Female;5;5;3;2;6;4;7;2;6;5;4;2;7;5;5;5;6;3;4;5;4;2;4;3
+BlackTea_GreenTea ;24;Female;1;3;6;5;7;7;7;4;7;3;2;1;7;6;2;6;4;3;3;2;6;6;2;3
+GreenTea_BlackTea;24;Female;1;3;6;5;5;7;7;2;2;2;4;4;2;5;2;3;4;4;2;2;4;5;5;4
+GreenTea_BlackTea;24;Female;5;2;5;2;5;5;5;4;7;3;4;2;5;2;6;2;5;5;5;5;5;6;5;5
+BlackTea_GreenTea ;25;Female;6;5;2;1;5;6;4;3;4;4;5;5;5;3;2;1;4;4;4;2;5;2;6;7
+BlackTea_GreenTea ;25;Female;4;3;4;4;5;5;5;4;4;4;3;3;4;4;5;3;4;3;4;4;5;5;3;3
+BlackTea_GreenTea ;25;Female;2;5;2;3;4;6;6;2;5;2;6;2;6;5;2;2;4;2;6;2;5;4;5;4
+BlackTea_GreenTea ;25;Female;1;3;7;7;7;7;7;5;4;1;2;3;6;3;4;5;4;2;7;5;5;4;2;3
+GreenTea_BlackTea;25;Female;6;1;7;4;7;6;5;4;4;4;5;4;5;4;5;4;5;5;7;4;5;6;4;6
+GreenTea_BlackTea;25;Female;6;5;4;1;5;6;5;4;4;2;5;4;7;3;1;1;6;7;7;4;2;2;3;5
+GreenTea_BlackTea;25;Female;2;3;6;2;6;5;6;4;1;2;3;1;5;2;5;2;4;5;5;4;3;3;4;3
+BlackTea_GreenTea ;26;Female;4;3;3;5;7;6;4;5;4;4;5;5;7;3;6;6;5;5;6;7;5;6;5;7
+BlackTea_GreenTea ;26;Female;5;5;6;4;5;6;4;3;4;2;1;1;4;5;6;5;6;6;4;4;5;4;5;4
+BlackTea_GreenTea ;26;Female;1;5;3;3;6;6;5;3;4;3;4;4;5;5;7;5;4;4;5;3;3;5;5;7
+BlackTea_GreenTea ;26;Female;6;7;5;3;5;5;6;4;2;4;5;1;7;4;4;5;4;5;4;4;4;4;4;5
+GreenTea_BlackTea;26;Female;2;2;6;3;7;6;6;3;4;2;3;5;3;1;6;2;5;5;4;2;4;6;3;3
+GreenTea_BlackTea;26;Female;2;3;6;6;7;6;5;6;7;3;3;5;5;5;3;3;5;5;2;3;5;5;6;3
+GreenTea_BlackTea;26;Female;4;3;6;5;6;6;5;4;4;3;5;6;5;2;6;5;5;4;6;3;4;4;4;4
+BlackTea_GreenTea ;27;Female;4;6;4;2;6;7;7;3;6;4;6;4;4;5;2;2;7;7;6;6;4;7;6;4
+BlackTea_GreenTea ;27;Female;5;4;4;4;7;5;6;4;7;4;6;5;5;5;5;2;5;5;5;5;3;5;6;4
+BlackTea_GreenTea ;27;Female;1;1;7;2;4;6;2;2;2;1;2;2;4;4;5;1;4;3;1;1;4;5;4;3
+BlackTea_GreenTea ;27;Female;5;2;5;3;6;5;4;5;4;5;3;3;6;3;4;2;6;6;4;3;2;2;2;3
+BlackTea_GreenTea ;27;Female;2;4;4;1;6;3;7;4;4;1;4;4;4;4;5;4;5;4;3;4;5;7;4;4
+GreenTea_BlackTea;27;Female;2;6;2;3;4;5;6;1;4;3;4;4;5;4;3;5;5;7;7;2;4;4;4;6
+GreenTea_BlackTea;27;Female;2;3;6;4;7;6;6;4;7;3;5;4;4;3;6;5;5;7;6;5;5;6;5;4
+GreenTea_BlackTea;27;Female;6;4;5;1;3;4;5;3;4;2;3;5;4;1;3;1;4;5;6;2;2;3;3;4
+GreenTea_BlackTea;27;Female;4;1;7;4;7;3;4;3;5;3;5;2;2;1;7;5;7;5;5;6;2;3;5;1
+BlackTea_GreenTea ;28;Female;5;5;2;3;6;6;4;3;6;5;4;4;2;2;6;5;5;4;2;2;5;6;4;4
+GreenTea_BlackTea;28;Female;4;5;3;5;5;3;7;5;4;2;5;4;6;5;3;3;5;3;6;6;3;4;5;3
+BlackTea_GreenTea ;29;Female;3;2;2;3;4;3;6;2;4;5;2;5;5;2;3;3;1;5;6;5;5;5;5;4
+BlackTea_GreenTea ;29;Female;4;2;6;3;6;6;2;4;3;5;4;3;5;2;5;2;5;4;2;2;3;5;4;3
+BlackTea_GreenTea ;29;Female;2;5;4;4;5;6;5;4;3;5;3;4;2;5;5;5;6;6;5;6;5;5;4;4
+BlackTea_GreenTea ;29;Female;1;3;6;4;5;5;4;5;2;5;4;2;4;5;5;3;5;5;5;5;4;7;4;2
+GreenTea_BlackTea;29;Female;2;2;4;2;5;5;4;3;4;2;6;3;4;5;3;3;5;6;5;3;3;2;3;5
+GreenTea_BlackTea;29;Female;2;6;7;7;7;7;6;3;2;4;5;5;5;6;2;3;2;6;7;7;2;2;3;5
+GreenTea_BlackTea;30;Female;6;2;5;3;5;6;5;3;4;5;4;2;2;4;5;6;4;4;3;2;5;2;6;6
+GreenTea_BlackTea;30;Female;2;1;7;2;6;7;6;4;4;3;5;5;3;1;6;1;6;7;5;2;3;1;6;6
+GreenTea_BlackTea;30;Female;4;2;5;4;5;6;6;5;2;2;3;4;5;5;3;3;2;4;6;6;2;2;3;4
+BlackTea_GreenTea ;31;Female;4;2;6;3;6;4;7;5;4;3;2;4;7;3;4;2;6;6;7;3;4;4;5;3
+BlackTea_GreenTea ;31;Female;7;6;4;5;5;7;4;3;6;4;3;4;3;2;4;5;6;6;5;6;5;5;6;4
+BlackTea_GreenTea ;31;Female;2;2;6;6;6;6;6;4;3;5;4;3;3;5;2;2;6;3;4;3;2;4;4;4
+BlackTea_GreenTea ;32;Female;5;4;3;4;5;4;3;2;4;4;3;2;6;5;2;3;2;5;3;4;3;3;3;3
+GreenTea_BlackTea;33;Female;3;7;6;4;7;5;5;4;4;4;3;3;4;6;2;2;5;3;4;5;3;2;2;3
+GreenTea_BlackTea;33;Female;2;6;3;2;6;7;7;7;2;2;6;4;4;6;4;2;6;4;7;6;2;2;6;6
+BlackTea_GreenTea ;36;Female;4;4;4;5;5;4;4;1;2;4;4;3;6;4;2;2;4;4;2;4;3;5;5;4
+BlackTea_GreenTea ;36;Female;4;2;5;5;6;4;5;4;4;3;4;3;4;4;4;3;4;4;5;4;4;5;3;4
+GreenTea_BlackTea;37;Female;6;1;7;5;7;3;5;4;3;1;4;6;5;2;7;7;5;2;2;6;5;1;2;1
+BlackTea_GreenTea ;39;Female;5;2;5;3;6;6;4;4;3;3;4;5;4;3;5;2;2;2;3;4;4;2;3;5
+BlackTea_GreenTea ;40;Female;5;5;4;5;7;7;7;6;7;4;6;4;4;5;4;4;2;3;5;4;5;6;5;5
+BlackTea_GreenTea ;40;Female;2;3;7;4;7;6;4;6;4;4;3;3;5;4;3;3;4;3;3;2;5;6;5;4
+BlackTea_GreenTea ;40;Female;3;4;5;4;5;5;5;3;3;3;5;4;4;5;3;4;4;3;5;3;4;4;5;3
+GreenTea_BlackTea;40;Female;4;2;4;1;5;5;5;2;3;2;4;3;2;1;6;6;5;5;6;2;1;2;3;3
+GreenTea_BlackTea;41;Female;6;6;2;2;6;6;3;3;4;2;3;4;6;5;2;3;6;7;3;3;3;3;6;6
+BlackTea_GreenTea ;42;Female;2;3;6;4;5;3;4;2;4;7;4;4;4;3;2;2;1;3;4;2;5;6;3;4
+BlackTea_GreenTea ;42;Female;5;5;5;5;7;5;5;5;3;5;7;5;4;3;3;5;6;5;6;6;4;2;5;4
+GreenTea_BlackTea;42;Female;4;4;4;4;3;4;2;2;3;2;2;2;4;3;3;4;4;4;4;3;3;3;4;4
+GreenTea_BlackTea;43;Female;3;3;2;2;5;5;4;1;2;3;4;2;4;4;1;2;2;4;2;1;3;3;3;3
+BlackTea_GreenTea ;45;Female;2;3;6;1;4;4;4;3;4;2;4;4;4;2;4;1;2;4;1;1;6;4;4;4
+GreenTea_BlackTea;46;Female;5;3;4;3;2;4;6;4;3;5;3;4;4;5;6;5;5;4;6;3;5;5;4;5
+GreenTea_BlackTea;46;Female;4;4;1;4;7;7;5;4;4;1;1;4;4;4;4;1;4;7;5;2;4;5;4;1
+BlackTea_GreenTea ;46;Female;5;5;5;5;6;6;4;4;6;5;4;4;7;5;4;2;4;4;7;5;6;5;4;5
+BlackTea_GreenTea ;18;Male;6;5;5;3;5;3;6;2;7;4;6;4;7;5;1;2;6;4;5;4;2;5;5;5
+BlackTea_GreenTea ;19;Male;6;6;1;3;2;4;2;6;7;2;1;1;4;6;5;1;1;4;1;5;2;5;5;7
+BlackTea_GreenTea ;22;Male;4;6;6;4;7;3;5;5;3;3;4;2;5;5;1;3;4;3;3;5;6;7;5;1
+GreenTea_BlackTea;22;Male;6;5;4;2;6;5;5;3;4;3;4;3;6;5;3;5;5;4;5;3;3;2;2;4
+GreenTea_BlackTea;22;Male;3;2;5;3;6;4;6;5;7;5;3;3;3;6;5;4;3;5;5;6;5;6;4;7
+BlackTea_GreenTea ;23;Male;5;4;4;4;5;4;6;3;3;4;7;5;7;6;2;4;4;3;4;5;3;5;4;4
+BlackTea_GreenTea ;23;Male;4;3;5;2;3;3;4;5;4;2;2;3;5;3;3;1;2;2;3;2;6;2;2;2
+GreenTea_BlackTea;23;Male;2;3;7;4;5;3;6;5;3;3;5;4;2;2;6;2;2;6;5;5;4;6;4;4
+BlackTea_GreenTea ;24;Male;4;2;6;3;5;3;4;5;2;1;3;5;7;3;2;5;4;3;3;2;4;5;4;4
+BlackTea_GreenTea ;24;Male;5;2;6;4;5;4;5;4;4;4;3;3;5;2;4;6;4;5;5;3;3;5;3;4
+GreenTea_BlackTea;24;Male;7;3;6;5;6;6;7;2;3;4;3;4;7;2;5;4;5;4;7;2;4;4;4;4
+GreenTea_BlackTea;24;Male;5;3;6;5;6;4;4;4;3;4;4;3;5;4;3;4;4;4;5;3;2;5;3;3
+BlackTea_GreenTea ;25;Male;4;3;5;5;3;3;6;7;2;3;5;5;6;6;2;2;6;7;6;3;4;6;3;3
+BlackTea_GreenTea ;25;Male;5;3;4;5;6;6;6;5;5;4;5;4;5;2;5;5;6;6;5;2;5;6;6;6
+GreenTea_BlackTea;25;Male;4;7;1;1;6;5;7;2;5;2;4;5;4;5;3;3;5;5;4;4;4;5;4;4
+GreenTea_BlackTea;25;Male;5;6;6;1;5;6;7;7;2;2;4;5;5;3;5;1;4;6;7;4;2;1;3;6
+GreenTea_BlackTea;25;Male;3;5;6;4;5;5;5;3;3;2;5;6;3;5;3;4;4;4;3;5;4;6;6;3
+BlackTea_GreenTea ;26;Male;5;2;6;4;7;1;6;5;5;5;3;4;6;4;3;2;2;4;3;2;4;5;5;7
+BlackTea_GreenTea ;26;Male;2;1;2;6;6;3;6;7;4;2;4;4;5;4;3;6;7;5;5;4;3;5;5;4
+BlackTea_GreenTea ;26;Male;5;2;3;6;7;7;7;2;5;3;4;4;5;5;3;3;4;4;6;3;5;2;3;3
+GreenTea_BlackTea;26;Male;3;1;2;2;6;4;5;3;6;2;5;4;2;3;3;6;4;4;5;6;2;5;5;5
+BlackTea_GreenTea ;27;Male;4;2;5;1;4;5;4;6;2;2;3;3;6;3;5;2;4;4;5;2;3;5;4;4
+BlackTea_GreenTea ;27;Male;4;6;3;3;5;4;7;3;6;2;6;7;7;3;4;2;5;6;2;2;4;2;2;3
+BlackTea_GreenTea ;27;Male;4;3;6;1;6;6;6;5;1;2;4;2;2;2;6;4;5;5;3;5;2;2;3;2
+GreenTea_BlackTea;27;Male;5;3;4;3;6;6;7;6;5;3;5;6;7;6;4;3;5;4;5;4;4;5;3;5
+GreenTea_BlackTea;27;Male;4;5;3;2;7;7;6;2;1;1;6;5;4;4;1;1;5;4;5;6;2;1;5;5
+GreenTea_BlackTea;27;Male;4;4;2;4;7;7;4;3;2;2;4;4;6;4;5;4;5;4;7;5;4;2;4;4
+GreenTea_BlackTea;27;Male;3;2;6;7;7;6;6;4;4;4;5;5;4;2;6;4;3;5;5;3;2;2;3;4
+GreenTea_BlackTea;27;Male;4;5;3;5;5;5;6;2;3;2;4;4;5;5;4;5;6;5;5;2;2;2;3;3
+GreenTea_BlackTea;28;Male;2;5;3;4;7;6;6;3;3;3;4;3;3;5;4;4;5;5;4;3;5;6;6;6
+BlackTea_GreenTea ;29;Male;5;3;5;1;6;4;6;3;7;3;5;3;5;5;3;4;4;3;4;4;5;2;5;5
+GreenTea_BlackTea;29;Male;6;3;5;4;5;5;5;4;3;7;3;5;6;3;5;5;5;5;5;3;5;5;5;7
+BlackTea_GreenTea ;30;Male;6;4;5;1;4;7;4;4;1;2;4;2;6;2;5;2;6;7;6;6;5;2;6;6
+BlackTea_GreenTea ;30;Male;6;4;5;4;5;4;5;4;3;3;4;4;7;6;5;1;6;5;5;3;4;2;5;5
+GreenTea_BlackTea;30;Male;4;4;4;4;5;4;7;7;5;4;7;5;4;5;4;4;5;4;2;5;6;7;4;5
+GreenTea_BlackTea;30;Male;5;6;1;2;7;5;2;4;3;2;7;3;5;4;4;6;7;6;5;2;1;1;6;6
+GreenTea_BlackTea;30;Male;5;5;2;2;5;4;5;4;2;3;4;5;4;5;2;4;1;2;7;6;2;2;5;4
+BlackTea_GreenTea ;31;Male;4;6;3;4;7;7;6;4;7;4;4;3;3;1;5;2;2;2;5;6;4;5;5;5
+GreenTea_BlackTea;31;Male;5;3;4;5;5;6;6;7;5;3;2;3;5;4;4;3;2;5;6;6;5;5;5;5
+GreenTea_BlackTea;31;Male;5;6;4;3;5;6;6;3;6;4;3;4;6;6;2;3;4;6;7;7;4;4;4;5
+BlackTea_GreenTea ;32;Male;5;6;3;1;6;4;7;2;5;2;2;2;5;6;7;2;6;5;7;2;6;7;5;2
+GreenTea_BlackTea;32;Male;7;3;3;2;5;6;7;5;3;3;4;3;7;6;4;1;5;6;7;6;4;1;3;4
+BlackTea_GreenTea ;33;Male;7;4;6;6;6;5;4;3;3;5;7;7;7;4;3;4;6;6;4;5;3;7;6;6
+BlackTea_GreenTea ;34;Male;3;3;6;4;5;6;6;2;7;5;7;7;5;3;4;1;4;2;6;2;3;5;4;5
+BlackTea_GreenTea ;35;Male;5;2;6;5;7;6;6;2;4;5;4;3;5;3;4;6;5;4;5;4;4;6;5;4
+BlackTea_GreenTea ;35;Male;7;5;3;6;5;6;4;4;3;4;3;2;5;3;4;5;4;4;4;3;6;6;5;6
+BlackTea_GreenTea ;35;Male;4;3;4;2;3;4;5;4;4;3;5;5;5;3;4;4;5;5;4;3;4;4;4;4
+GreenTea_BlackTea;35;Male;6;3;5;2;5;4;6;5;3;2;6;5;7;5;4;4;4;4;6;6;5;5;5;7
+GreenTea_BlackTea;35;Male;4;4;4;4;5;4;4;4;4;4;4;3;6;4;2;2;2;4;6;6;3;4;5;4
+GreenTea_BlackTea;35;Male;4;6;3;1;3;6;6;3;2;2;5;6;3;5;4;2;4;4;5;3;3;3;5;4
+BlackTea_GreenTea ;36;Male;6;1;7;5;7;5;6;3;3;4;4;2;7;4;6;5;5;4;7;4;5;5;5;2
+BlackTea_GreenTea ;36;Male;6;4;4;4;5;5;3;5;3;3;3;3;2;2;4;4;2;3;1;3;2;1;1;1
+GreenTea_BlackTea;36;Male;4;6;6;3;3;3;6;4;3;2;4;2;5;5;3;3;1;2;6;6;3;3;6;2
+BlackTea_GreenTea ;37;Male;6;1;7;7;7;5;6;5;5;3;4;5;5;4;3;4;2;4;5;4;3;3;5;4
+GreenTea_BlackTea;37;Male;5;2;6;6;7;6;5;6;5;4;3;3;5;4;2;4;2;4;6;7;2;1;2;2
+BlackTea_GreenTea ;38;Male;3;4;5;4;7;6;5;5;5;2;4;3;5;5;3;2;4;3;5;6;3;3;4;3
+GreenTea_BlackTea;38;Male;5;2;6;5;5;5;6;4;3;2;5;5;3;2;5;4;3;2;6;2;2;3;3;4
+GreenTea_BlackTea;39;Male;5;3;4;4;5;6;4;4;6;5;4;5;4;4;5;4;5;5;5;6;3;3;4;4
+BlackTea_GreenTea ;40;Male;4;2;5;2;6;7;4;1;5;1;4;2;6;2;1;1;6;7;1;2;1;2;5;5
+BlackTea_GreenTea ;40;Male;7;5;5;6;6;4;5;6;7;7;6;5;6;6;7;7;4;5;7;7;7;7;3;5
+BlackTea_GreenTea ;40;Male;5;4;2;2;4;5;6;2;5;4;3;2;5;4;4;5;4;4;4;4;4;4;3;4
+GreenTea_BlackTea;40;Male;6;5;3;2;5;5;5;2;4;4;4;3;6;5;3;4;4;4;5;3;3;2;2;3
+GreenTea_BlackTea;40;Male;5;6;5;2;4;5;4;3;2;2;4;4;6;5;5;3;1;4;5;4;4;4;5;4
+BlackTea_GreenTea ;41;Male;5;3;6;4;5;6;6;5;4;4;5;3;6;6;5;4;4;5;5;6;4;5;3;4
+GreenTea_BlackTea;41;Male;7;7;7;5;7;7;5;6;5;7;7;7;7;7;7;7;4;7;7;7;7;6;7;7
+GreenTea_BlackTea;41;Male;5;4;3;2;4;4;2;2;4;2;4;4;4;3;3;2;4;3;2;1;6;7;6;4
+GreenTea_BlackTea;41;Male;7;4;5;3;5;4;5;2;4;3;7;5;6;2;4;5;5;5;3;2;6;4;4;3
+GreenTea_BlackTea;41;Male;3;5;6;4;3;1;2;4;6;3;4;5;3;3;4;3;6;5;6;6;4;7;4;5
+GreenTea_BlackTea;42;Male;5;5;4;4;5;5;5;3;6;4;5;5;4;4;4;3;4;4;4;4;4;4;3;4
+GreenTea_BlackTea;42;Male;5;5;4;2;4;4;3;2;2;3;4;4;5;4;4;2;4;4;4;3;5;2;4;4
+GreenTea_BlackTea;43;Male;5;4;4;3;5;4;5;3;4;4;4;5;3;2;5;4;5;3;6;2;3;5;3;4
+BlackTea_GreenTea ;44;Male;5;3;4;4;7;6;5;5;4;3;4;4;5;3;3;4;5;4;6;3;4;5;3;4
+GreenTea_BlackTea;44;Male;6;4;3;1;6;6;4;2;4;1;3;4;6;1;6;4;6;6;7;2;4;5;6;4
+GreenTea_BlackTea;46;Male;7;3;6;4;5;4;7;3;4;7;4;4;5;3;2;6;4;5;5;4;2;2;2;5
+GreenTea_BlackTea;46;Male;3;7;6;4;5;4;6;1;5;4;5;5;3;6;6;3;5;4;7;2;5;2;5;4
